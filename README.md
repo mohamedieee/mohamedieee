@@ -10,12 +10,13 @@
 ---
 
 # 🌌 **About Me**
-I’m a **Network Automation Engineer** building intelligent, scalable automation for distributed systems — mainly around **Linux SONiC**, CI/CD pipelines, reliability engineering, and **Security + GenAI** for modern infrastructure.
+I’m a **Network Automation Engineer** specializing in **Linux SONiC**, CI/CD pipelines, distributed testing, observability, and the emerging intersection of **Security + GenAI**.
 
 ✅ I automate complex test orchestration  
-✅ I improve reliability using CI/CD + observability  
-✅ I design AI-assisted SecOps workflows  
+✅ I build reliability pipelines with CI/CD  
+✅ I design GenAI-assisted SecOps workflows  
 ✅ I explore ML-based intrusion detection  
+✅ I build high-quality infrastructure automation
 
 ---
 
@@ -30,11 +31,16 @@ I’m a **Network Automation Engineer** building intelligent, scalable automatio
   <img src="https://img.shields.io/badge/GenAI-Security%20Automation-8a2be2?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://svgur.com/i/16i8.svg" width="88%" />
+</p>
+
 ---
 
 # 🧩 **Featured Projects**
+
 ## 🔵 **TargetNOS / SONiC Test Orchestration**
-Highly automated multi-pod orchestration, nightly schedules, feature test runs, and Grafana surfacing.  
+Highly automated multi-pod orchestration, nightly schedules, feature test pipelines, and Grafana surfacing.  
 **Tech:** Python • SONiC • Jenkins • GitHub Actions  
 ✅ *Repo coming soon*
 
@@ -49,16 +55,39 @@ real-time alert handling, config reasoning, log triage.
 ---
 
 ## 🔥 **ML-Based Intrusion Detection (IDS)**
-Rebuilt a clean ML pipeline for anomaly detection.  
-**Tech:** Python • ML • Network Security  
+Clean ML pipeline for anomaly detection and alerting.  
+**Tech:** Python • ML • Security Pipelines  
 ➡️ https://github.com/mohamedieee/machine-learning-intrusion-detection
+
+<p align="center">
+  <img src="https://svgur.com/i/16i8.svg" width="88%" />
+</p>
 
 ---
 
-# 🏆 **GitHub Achievements**
+# 🗺️ **Interactive Skill Map (live)**
+Explore my dark-mode radar visualization for:
+**SONiC · Automation · CI/CD · Observability · Security · GenAI**
+
+✅ Built with Chart.js  
+✅ Hosted on GitHub Pages  
+✅ Auto dark mode  
+
+➡️ **Live:** https://mohamedieee.github.io/#skills
+
+---
+
+# 🧭 **3D Network Diagram (live)**
+Rotating 3D topology using **Three.js** with glowing nodes + animated links.
+
+✅ Drag to orbit  
+✅ Wheel zoom  
+✅ Dark neon theme  
+
+➡️ **Live:** https://mohamedieee.github.io/#viz
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedieee&theme=onestar&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://svgur.com/i/16i8.svg" width="88%" />
 </p>
 
 ---
@@ -73,6 +102,10 @@ Rebuilt a clean ML pipeline for anomaly detection.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedieee&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="55%"/>
 
 </div>
+
+<p align="center">
+  <img src="https://svgur.com/i/16i8.svg" width="88%" />
+</p>
 
 ---
 
@@ -91,4 +124,14 @@ Rebuilt a clean ML pipeline for anomaly detection.
 
 ---
 
-<h3 align="center">✨ “Automate it. Secure it. Scale it. Make it intelligent.” ✨</h3>
+# 🔥 **Neon ASCII Signature**
+
+```text
+███╗   ███╗ ██████╗  ██████╗  ███████╗███╗   ██╗
+████╗ ████║██╔═══██╗██╔═══██╗ ██╔════╝████╗  ██║
+██╔████╔██║██║   ██║██║   ██║ █████╗  ██╔██╗ ██║
+██║╚██╔╝██║██║   ██║██║   ██║ ██╔══╝  ██║╚██╗██║
+██║ ╚═╝ ██║╚██████╔╝╚██████╔╝ ███████╗██║ ╚████║
+╚═╝     ╚═╝ ╚═════╝  ╚═════╝  ╚══════╝╚═╝  ╚═══╝
+
+        Automate • Secure • Scale • Intelligent
