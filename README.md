@@ -6,7 +6,7 @@ I build automation and reliability tooling for large-scale network systems, espe
 
 ---
 
-## 🚀 What I Work On
+##  What I Work On
 - TargetNOS/SONiC test orchestration & nightly reliability pipelines  
 - CI/CD for network OS development (Jenkins, GitHub Actions)  
 - Grafana dashboards & observability automation  
@@ -15,7 +15,7 @@ I build automation and reliability tooling for large-scale network systems, espe
 
 ---
 
-## 🛠️ Toolbox
+##  Toolbox
 **Languages:** Python, Bash  
 **Infra/DevOps:** GitHub Actions, Jenkins, Docker  
 **Networking:** SONiC, BGP/EVPN, automation frameworks  
@@ -23,7 +23,7 @@ I build automation and reliability tooling for large-scale network systems, espe
 
 ---
 
-## 📚 Goals
+##  Goals
 - Build advanced automation for large-scale network systems  
 - Publish open-source SONiC automation tools  
 - Present workshops at **OCP Summit**, **NANOG**, **IEEE**, **KubeCon**  
@@ -31,14 +31,14 @@ I build automation and reliability tooling for large-scale network systems, espe
 
 ---
 
-## 📫 Connect
+##  Connect
 **GitHub Pages:** https://mohamedieee.github.io  
-**LinkedIn:** https://www.linkedin.com/in/mohamed-ieee  
-**Email:** yourbestemail@example.com  
+**LinkedIn:** https://www.linkedin.com/in/mohamed-taha-985450133/
+**Email:** mohamed@ieee.org
 
 ---
 
-## 📊 Stats
+##  Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedieee)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedieee&layout=compact)
 
