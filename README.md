@@ -1,77 +1,69 @@
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/mohamedieee/mohamedieee/main/assets/banner-dark.gif" width="100%" />
-
+<!-- Hero Banner -->
 <h1 align="center">
-  <span style="font-weight:700; font-size: 38px;">Hi, I'm Mohamed Taha</span>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=500&lines=Network+Automation+Engineer;SONiC+%7C+CI%2FCD+%7C+DevOps;Security+%2B+GenAI+Engineering;Infrastructure+%2B+Observability+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohamed+Taha+(MohamedIEEE);Network+Automation+Engineer;SONiC+%7C+CI%2FCD+%7C+Security+%2B+GenAI;Infrastructure+%7C+Automation+%7C+Observability" />
 </h1>
 
----
-
-## 🚀 **About Me**
-I engineer automation for large-scale distributed network systems — focusing on **Linux SONiC**, CI/CD pipelines, testing orchestration, observability, and the next wave: **Security + GenAI-powered infrastructure intelligence**.
-
-I love building:
-- 🔧 Automated infra at scale (TargetNOS + SONiC)  
-- 🔍 Reliability engineering & test orchestration  
-- 🤖 Policy-aware GenAI agents for SecOps  
-- 📊 Grafana observability automation  
-- 🛡️ ML-based intrusion detection pipelines  
-
----
-
-## ⚡ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,github,git,ansible,jenkins,prometheus,grafana" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedieee&label=Visitors&color=0bd3d3&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+# 🌌 **About Me**
+I’m a **Network Automation Engineer** building intelligent, scalable automation for distributed systems — mainly around **Linux SONiC**, CI/CD pipelines, reliability engineering, and **Security + GenAI** for modern infrastructure.
+
+✅ I automate complex test orchestration  
+✅ I improve reliability using CI/CD + observability  
+✅ I design AI-assisted SecOps workflows  
+✅ I explore ML-based intrusion detection  
+
+---
+
+# ⚡ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,github,git,ansible,jenkins,terraform,prometheus,grafana&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SONiC-Network%20OS-0a84ff?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-BGP%20%7C%20EVPN%20%7C%20VXLAN-6a0dad?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GenAI-Security%20Automation-8a2be2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins-00d4ff?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧩 **Featured Projects**
-<div align="center">
-
-### 🔵 **TargetNOS / SONiC Test Orchestration**
-Automated nightly test schedule, feature-test pipelines, and multi-pod orchestration with Grafana surfacing.
-
-**Tech:** Python, SONiC, Jenkins, GitHub Actions  
-➡️ *(Repo coming soon)*
+# 🧩 **Featured Projects**
+## 🔵 **TargetNOS / SONiC Test Orchestration**
+Highly automated multi-pod orchestration, nightly schedules, feature test runs, and Grafana surfacing.  
+**Tech:** Python • SONiC • Jenkins • GitHub Actions  
+✅ *Repo coming soon*
 
 ---
 
-### 🛡️ **Security + GenAI Agents**
-Policy-aware LLM agents for SecOps automation (alerts, log triage, config reasoning).
-
-**Tech:** Python, LLMs, tool-use, observability  
-➡️ *(Repo coming soon)*
-
----
-
-### 🔥 **ML-Based Intrusion Detection System (IDS)**
-Rebuilt from scratch with clean pipeline, evaluation suite, and modern ML stack.
-
-**Tech:** Python, ML, security pipelines  
-➡️ https://github.com/mohamedieee/machine-learning-intrusion-detection *(rename recommended)*
-
-</div>
+## 🛡️ **Security + GenAI Agents**
+Policy-aware LLM agents for SecOps automation:  
+real-time alert handling, config reasoning, log triage.  
+**Tech:** Python • LLMs • Observability  
+✅ *Repo coming soon*
 
 ---
 
-## 🧠 **Current Goals**
-- ✅ Publish advanced SONiC automation tooling  
-- ✅ Build intelligent SecOps workflows (GenAI + network telemetry)  
-- ✅ Present workshops at **OCP Summit, NANOG, IEEE, KubeCon**  
-- ✅ Develop advanced IDS pipeline with modern ML models  
+## 🔥 **ML-Based Intrusion Detection (IDS)**
+Rebuilt a clean ML pipeline for anomaly detection.  
+**Tech:** Python • ML • Network Security  
+➡️ https://github.com/mohamedieee/machine-learning-intrusion-detection
 
 ---
 
-## 📊 **GitHub Activity**
+# 🏆 **GitHub Achievements**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedieee&theme=onestar&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📊 **GitHub Stats**
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedieee&theme=tokyonight&hide_border=true" width="55%"/>
@@ -84,9 +76,9 @@ Rebuilt from scratch with clean pipeline, evaluation suite, and modern ML stack.
 
 ---
 
-## 🌐 **Connect With Me**
+# 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ieee/">
+  <a href="https://www.linkedin.com/in/mohamed-taha-985450133/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Taha-0a66c2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:yourbestemail@example.com">
@@ -99,5 +91,4 @@ Rebuilt from scratch with clean pipeline, evaluation suite, and modern ML stack.
 
 ---
 
-## ✨ **“Automate everything. Make it reliable. Make it intelligent.”**
-
+<h3 align="center">✨ “Automate it. Secure it. Scale it. Make it intelligent.” ✨</h3>
