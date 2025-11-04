@@ -33,8 +33,11 @@ I build automation and reliability tooling for large-scale network systems, espe
 
 ##  Connect
 **GitHub Pages:** https://mohamedieee.github.io  
+
 **LinkedIn:** https://www.linkedin.com/in/mohamed-taha-985450133/ 
-**Email:** mohamed@ieee.org
+
+**Email:** mohamed@ieee.org 
+
 
 ---
 
