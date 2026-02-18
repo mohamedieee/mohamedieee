@@ -9,18 +9,18 @@
 
 ---
 
-# 🌌 **About Me**
+#  **About Me**
 I’m a **Network Automation Engineer** specializing in **Linux SONiC**, CI/CD pipelines, distributed testing, observability, and the emerging intersection of **Security + GenAI**.
 
-✅ I automate complex test orchestration  
-✅ I build reliability pipelines with CI/CD  
-✅ I design GenAI-assisted SecOps workflows  
-✅ I explore ML-based intrusion detection  
-✅ I build high-quality infrastructure automation
+ I automate complex test orchestration  
+ I build reliability pipelines with CI/CD  
+ I design GenAI-assisted SecOps workflows  
+ I explore ML-based intrusion detection  
+ I build high-quality infrastructure automation
 
 ---
 
-# ⚡ **Tech Stack**
+#  **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,github,git,ansible,jenkins,terraform,prometheus,grafana&theme=dark" />
 </p>
@@ -37,12 +37,12 @@ I’m a **Network Automation Engineer** specializing in **Linux SONiC**, CI/CD p
 
 ---
 
-# 🧩 **Featured Projects**
+#  **Featured Projects**
 
 ## 🔵 **TargetNOS / SONiC Test Orchestration**
 Highly automated multi-pod orchestration, nightly schedules, feature test pipelines, and Grafana surfacing.  
 **Tech:** Python • SONiC • Jenkins • GitHub Actions  
-✅ *Repo coming soon*
+ *Repo coming soon*
 
 ---
 
@@ -50,7 +50,7 @@ Highly automated multi-pod orchestration, nightly schedules, feature test pipeli
 Policy-aware LLM agents for SecOps automation:  
 real-time alert handling, config reasoning, log triage.  
 **Tech:** Python • LLMs • Observability  
-✅ *Repo coming soon*
+ *Repo coming soon*
 
 ---
 
@@ -69,22 +69,22 @@ Clean ML pipeline for anomaly detection and alerting.
 Explore my dark-mode radar visualization for:
 **SONiC · Automation · CI/CD · Observability · Security · GenAI**
 
-✅ Built with Chart.js  
-✅ Hosted on GitHub Pages  
-✅ Auto dark mode  
+ Built with Chart.js  
+ Hosted on GitHub Pages  
+ Auto dark mode  
 
-➡️ **Live:** https://mohamedieee.github.io/#skills
+ **Live:** https://mohamedieee.github.io/#skills
 
 ---
 
-# 🧭 **3D Network Diagram (live)**
+#  **3D Network Diagram (live)**
 Rotating 3D topology using **Three.js** with glowing nodes + animated links.
 
-✅ Drag to orbit  
-✅ Wheel zoom  
-✅ Dark neon theme  
+ Drag to orbit  
+ Wheel zoom  
+ Dark neon theme  
 
-➡️ **Live:** https://mohamedieee.github.io/#viz
+ **Live:** https://mohamedieee.github.io/#viz
 
 <p align="center">
   <img src="https://svgur.com/i/16i8.svg" width="88%" />
@@ -92,7 +92,7 @@ Rotating 3D topology using **Three.js** with glowing nodes + animated links.
 
 ---
 
-# 📊 **GitHub Stats**
+#  **GitHub Stats**
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedieee&theme=tokyonight&hide_border=true" width="55%"/>
@@ -109,7 +109,7 @@ Rotating 3D topology using **Three.js** with glowing nodes + animated links.
 
 ---
 
-# 🌐 **Connect With Me**
+#  **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-taha-985450133/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Taha-0a66c2?style=for-the-badge&logo=linkedin" />
@@ -124,7 +124,7 @@ Rotating 3D topology using **Three.js** with glowing nodes + animated links.
 
 ---
 
-# 🔥 **Neon ASCII Signature**
+#  **Neon ASCII Signature**
 
 ```text
 ███╗   ███╗ ██████╗  ██████╗  ███████╗███╗   ██╗
