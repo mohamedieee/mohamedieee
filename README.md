@@ -39,7 +39,7 @@ I’m a **Network Automation Engineer** specializing in **Linux SONiC**, CI/CD p
 
 #  **Featured Projects**
 
-##  ![alt text](download.jpg)**TargetNOS / SONiC Test Orchestration**
+##  **TargetNOS / SONiC Test Orchestration**
 Highly automated multi-pod orchestration, nightly schedules, feature test pipelines, and Grafana surfacing.  
 **Tech:** Python • SONiC • Jenkins • GitHub Actions  
  *Repo coming soon*
