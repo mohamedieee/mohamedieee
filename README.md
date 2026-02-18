@@ -39,14 +39,14 @@ I’m a **Network Automation Engineer** specializing in **Linux SONiC**, CI/CD p
 
 #  **Featured Projects**
 
-## 🔵 **TargetNOS / SONiC Test Orchestration**
+##  **TargetNOS / SONiC Test Orchestration**
 Highly automated multi-pod orchestration, nightly schedules, feature test pipelines, and Grafana surfacing.  
 **Tech:** Python • SONiC • Jenkins • GitHub Actions  
  *Repo coming soon*
 
 ---
 
-## 🛡️ **Security + GenAI Agents**
+##  **Security + GenAI Agents**
 Policy-aware LLM agents for SecOps automation:  
 real-time alert handling, config reasoning, log triage.  
 **Tech:** Python • LLMs • Observability  
@@ -54,7 +54,7 @@ real-time alert handling, config reasoning, log triage.
 
 ---
 
-## 🔥 **ML-Based Intrusion Detection (IDS)**
+##  **ML-Based Intrusion Detection (IDS)**
 Clean ML pipeline for anomaly detection and alerting.  
 **Tech:** Python • ML • Security Pipelines  
 ➡️ https://github.com/mohamedieee/machine-learning-intrusion-detection
@@ -65,7 +65,7 @@ Clean ML pipeline for anomaly detection and alerting.
 
 ---
 
-# 🗺️ **Interactive Skill Map (live)**
+#  **Interactive Skill Map (live)**
 Explore my dark-mode radar visualization for:
 **SONiC · Automation · CI/CD · Observability · Security · GenAI**
 
